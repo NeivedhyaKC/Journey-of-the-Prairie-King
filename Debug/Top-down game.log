@@ -1,0 +1,229 @@
+﻿  Button.cpp
+  Collision.cpp
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(144,140): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(144,103): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(145,90): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(145,58): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Component.cpp
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(144,140): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(144,103): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(145,90): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(145,58): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\Component.cpp(88,46): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Game Programming\SFML\Top-down game\Top-down game\Component.cpp(90,46): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Component2.cpp
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(144,140): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(144,103): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(145,90): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(145,58): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\Component2.cpp(22,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Programming\SFML\Top-down game\Top-down game\Component2.cpp(27,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Programming\SFML\Top-down game\Top-down game\Component2.cpp(30,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Game Programming\SFML\Top-down game\Top-down game\Component2.cpp(56,48): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(144,140): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(144,103): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(145,90): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(145,58): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\Game.cpp(9,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\Game.cpp(9,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GameState.cpp
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(144,140): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(144,103): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(145,90): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(145,58): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\GameState.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Game Programming\SFML\Top-down game\Top-down game\GameState.cpp(95,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Programming\SFML\Top-down game\Top-down game\GameState.cpp(95,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(144,140): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(144,103): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(145,90): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(145,58): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  MainMenuState.cpp
+  SceneNode.cpp
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(144,140): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(144,103): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(145,90): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.h(145,58): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game Programming\SFML\Top-down game\Top-down game\SceneNode.cpp(225,23): warning C4018: '<': signed/unsigned mismatch
+  State.cpp
+  World.cpp
+  Generating Code...
+  Top-down game.vcxproj -> D:\Game Programming\SFML\Top-down game\Debug\Top-down game.exe
